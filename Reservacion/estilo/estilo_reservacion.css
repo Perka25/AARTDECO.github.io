@@ -304,6 +304,11 @@ section.Datos div{
     width: 100%; 
     text-align: center; 
   }
+
+  #reserv{
+    height: 350px;
+    width: 100%;
+  }
 }
 
 
