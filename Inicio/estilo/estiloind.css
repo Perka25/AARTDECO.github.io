@@ -171,7 +171,7 @@ body, html {
 
 /* PPARALLLLAAAXXX */
 .parallax {
-  background-image: url('Inicio/img/6303438.jpg');
+  background-image: url('../Inicio/img/6303438.jpg');
   height: 600px;
   background-attachment: fixed;
   background-position: center;
@@ -244,9 +244,9 @@ body, html {
 }
 
 .section-bg1 { background-color: #0D0D0D;}
-.section-bg2 { background: url('Inicio/img/6312085.jpg') no-repeat center center/cover; }
+.section-bg2 { background: url('../Inicio/img/6312085.jpg') no-repeat center center/cover; }
 .section-bg3 { background-color: #0D0D0D; }
-.section-bg4 { background: url('Inicio/img/Decorative-4807.jpg') no-repeat center center/cover; }
+.section-bg4 { background: url('../Inicio/img/Decorative-4807.jpg') no-repeat center center/cover; }
 
 /* FOOOOOTTTRRRETTTR */
 footer {
